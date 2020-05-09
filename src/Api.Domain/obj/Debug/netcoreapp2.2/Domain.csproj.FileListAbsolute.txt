@@ -1,0 +1,8 @@
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.pdb

@@ -1,0 +1,13 @@
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.deps.json
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Service.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\bin\Debug\netcoreapp2.2\Data.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete

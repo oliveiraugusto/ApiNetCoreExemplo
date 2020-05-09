@@ -1,0 +1,13 @@
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Data.deps.json
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Data.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Domain.dll
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\source\repos\Estudos\APIs\api_netcore\src\Api.Data\obj\Debug\netcoreapp2.2\Data.csproj.CopyComplete
